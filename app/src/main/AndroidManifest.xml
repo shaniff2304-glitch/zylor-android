@@ -1,3 +1,4 @@
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -16,8 +17,8 @@
     <application
         android:allowBackup="true"
         android:label="Zylor"
-        android:icon="@drawable/zylor_icon"
-        android:roundIcon="@drawable/zylor_icon"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="false">
 
